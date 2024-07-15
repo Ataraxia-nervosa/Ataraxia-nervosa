@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ataraxia-nervosa
 - 👀 I’m interested in coding and game development.
-- 🌱 I’m currently learning Python and working my through the Computer Science course on Codecademy.
+- 🌱 I’m currently learning Python and working my way through the Computer Science course on Codecademy.
 - 📫 How to reach me: shlimazl@gmail.com, Telegram: @darshannon
 
 <!---
